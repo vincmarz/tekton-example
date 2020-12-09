@@ -9,4 +9,4 @@ spec:
     inputs:
       - name: repo
         resourceRef:
-          name: arthurk-tekton-example
+          name: tekton-example
